@@ -1,5 +1,5 @@
 {
-  "name": "Hide Website Image for Muslims",
+  "name": "No Pics - Replace Website Image with Allah for Muslims",
   "version": "1.0",
   "description": "Replace every image of a website with allah's name.",
   "permissions": ["declarativeNetRequest"],
