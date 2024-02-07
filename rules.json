@@ -5,7 +5,8 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "url": "https://i.postimg.cc/bYZnyZ4g/allah.jpg"
+        "url": "https://i.postimg.cc/Pf0wPtjj/muhammad.jpg"
+        
       }
     },
     "condition": { "urlFilter": "*.jpeg", "resourceType": ["image"] }
@@ -16,9 +17,20 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "url": "https://i.postimg.cc/Pf0wPtjj/muhammad.jpg"
+        "url": "https://i.postimg.cc/bYZnyZ4g/allah.jpg"
       }
     },
     "condition": { "urlFilter": "*.jpg", "resourceType": ["image"] }
+  },
+  {
+    "id": 3,
+    "priority": 100,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://i.postimg.cc/Pf0wPtjj/muhammad.jpg"
+      }
+    },
+    "condition": { "urlFilter": "*.webp", "resourceType": ["image"] }
   }
 ]
