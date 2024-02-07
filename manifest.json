@@ -1,7 +1,7 @@
 {
-  "name": "Catifier",
+  "name": "Hide Website Image for Muslims",
   "version": "1.0",
-  "description": "Replace every image by a cat's image in a website you visit",
+  "description": "Replace every image of a website with allah's name.",
   "permissions": ["declarativeNetRequest"],
   "host_permissions": ["<all_urls>"],
   "declarative_net_request": {

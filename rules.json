@@ -5,7 +5,7 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "url": "https://i.chzbgr.com/completestore/12/8/23/S__rxG9hIUK4sNuMdTIY9w2.jpg"
+        "url": "https://i.postimg.cc/bYZnyZ4g/allah.jpg"
       }
     },
     "condition": { "urlFilter": "*.jpeg", "resourceType": ["image"] }
@@ -16,7 +16,7 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "url": "https://i.chzbgr.com/completestore/12/8/23/S__rxG9hIUK4sNuMdTIY9w2.jpg"
+        "url": "https://i.postimg.cc/Pf0wPtjj/muhammad.jpg"
       }
     },
     "condition": { "urlFilter": "*.jpg", "resourceType": ["image"] }
